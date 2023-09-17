@@ -36,10 +36,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Hyunwook Jung <br> Software Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-linkedin", link: "#" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I am a software engineer with a passion for building innovative and user-friendly products. I have experience in a variety of programming languages and technologies, and I am always eager to learn new things. I am a highly motivated and results-oriented team player with a strong work ethic.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -70,10 +70,10 @@ work-process:
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Hyunwook Jung"
-    image: "assets/images/team/member-1.png"
-    designation: "Software Developer"
+#team:
+#  - title: "Hyunwook Jung"
+#    image: "assets/images/team/member-1.png"
+#    designation: "Software Developer"
 
 #  - title: "Julias Carlie"
 #    image: "assets/images/team/member-2.png"
