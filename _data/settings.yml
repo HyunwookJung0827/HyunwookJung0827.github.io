@@ -39,7 +39,7 @@ hero:
   hero-title: Hi! I’m <br> Hyunwook Jung <br> Software Developer
 
 social:
-  - { icon: "ti-linkedin", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/hyunwook-jung-ucb0827/" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
