@@ -99,34 +99,34 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: PYTHON,
       icon: "icon-1.png",
       date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      #organization: "WEBEX",
     }
   - {
-      name: UX & UI Designer,
+      name: C++,
       icon: "icon-2.png",
       date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      #organization: "AUGMEDIX",
+    }
+  - {
+      name: Go,
+      icon: "icon-3.png",
+      date: "Sep 2014 - Present",
+      #organization: "THEMEFISHER",
+    }
+  - {
+      name: Java,
+      icon: "icon-4.png",
+      date: "Sep 2014 - Present",
+      #organization: "THEMEFISHER",
     }
   - {
       name: Senior UI Designer,
       icon: "icon-3.png",
       date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
-    }
-  - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
-    }
-  - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      #organization: "THEMEFISHER",
     }
 
 #-------------------------------
@@ -135,7 +135,7 @@ experience:
 education-title: Education
 education:
   - {
-      name: BS in Electrical Engineering & Computer Science,
+      name: B.S Electrical Engineering & Computer Science,
       date: "2023",
       organization: "University of California, Berkeley",
     }
