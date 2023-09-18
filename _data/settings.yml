@@ -154,26 +154,26 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
-services:
-  - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
-  - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
+#services-title: Services
+#services:
+#  - {
+#      name: UI Design,
+#      icon: ti-palette,
+#      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+#      active: ,# Add true to select section
+#    }
+#  - {
+#      name: UX Design,
+#      icon: ti-vector,
+#      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+#      active: true, # Add true to select section
+#    }
+#  - {
+#      name: Interaction Design,
+#      icon: ti-panel,
+#      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+#      active: ,# Add true to select section
+#    }
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -197,9 +197,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "CS Theory", type: "design" }
+  - { title: "Machine Learning", type: "branding" }
+  - { title: "AWS", type: "illustration" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
