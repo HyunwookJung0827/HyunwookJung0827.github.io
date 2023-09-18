@@ -40,7 +40,7 @@ hero:
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/hyunwook-jung-ucb0827/" }
-  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/hyunwook-jung-ucb0827/" }
+#  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/hyunwook-jung-ucb0827/" }
 #  - { icon: "ti-instagram", link: "#" }
 #  - { icon: "ti-dribbble", link: "#" }
 #  - { icon: "ti-twitter", link: "#" }
@@ -188,7 +188,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "#blog"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
