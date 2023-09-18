@@ -1,18 +1,13 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Hyunwook Jung
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I am a software engineer with a passion for building innovative and user-friendly products. I have experience in a variety of programming languages and technologies, including Go, Python, C++, SQL, Java, and JavaScript. I am also skilled in test automation, database systems, and software engineering principles.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+I am a highly motivated and results-oriented individual with a strong work ethic. I am also a quick learner and I am eager to take on new challenges. I am a team player and I am always willing to help others.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+In my spare time, I enjoy playing video games, reading books, and watching movies with my friends.
