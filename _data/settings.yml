@@ -40,9 +40,10 @@ hero:
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/hyunwook-jung-ucb0827/" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/hyunwook-jung-ucb0827/" }
+#  - { icon: "ti-instagram", link: "#" }
+#  - { icon: "ti-dribbble", link: "#" }
+#  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
@@ -118,7 +119,13 @@ experience:
     }
   - {
       name: Java,
-      icon: "icon-4.png",
+      icon: "icon-1.png",
+      date: "Sep 2014 - Present",
+      #organization: "THEMEFISHER",
+    }
+  - {
+      name: Senior UI Designer,
+      icon: "icon-2.png",
       date: "Sep 2014 - Present",
       #organization: "THEMEFISHER",
     }
