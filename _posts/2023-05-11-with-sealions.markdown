@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I said hi to sea lions
+title:  Sea lions
 date:   2023-05-11 20:15:55 +0700
 image:  /assets/images/blog/daily/post-3.JPG
 author: hyunwookjung
