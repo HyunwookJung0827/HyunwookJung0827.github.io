@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post!"
+title:  First Post!
 date:   2023-09-17 19:43:55 +0300
 image:  /assets/images/blog/daily/post-1.png
 author: hyunwookjung
