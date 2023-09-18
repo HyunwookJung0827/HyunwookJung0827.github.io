@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  I said hi to sea lions
-date:   2017-05-11 20:15:55 +0700
+date:   2023-05-11 20:15:55 +0700
 image:  /assets/images/blog/daily/post-3.JPG
 author: hyunwookjung
 tags:   Daily
