@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Amazon increase income 1.5 Million
+title:  I said hi to sea lions
 date:   2017-05-11 20:15:55 +0700
-image:  /assets/images/blog/daily/post-3.jpg
+image:  /assets/images/blog/daily/post-3.JPG
 author: hyunwookjung
 tags:   Daily
 ---
