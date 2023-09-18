@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "첫 포스트!"
+title:  "First Post!"
+date:   2023-09-17 19:43:55 +0300
+image:  /assets/images/blog/post-2.jpg
 author: hyunwookjung
 tags:   Daily
 ---
