@@ -209,7 +209,7 @@ portfolio-label:
   - { title: "AWS", type: "illustration" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/go-cloud-storage-1.png"
     url: "/about"
     portfolio-type:
       - type: "design"
