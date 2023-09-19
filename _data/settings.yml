@@ -189,18 +189,23 @@ education:
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
+    project-description: "This is a description of my first project."
 
   - image: "assets/images/portfolio/item-2.png"
     url: "/about"
+    project-description: "This is a description of my second project."
 
   - image: "assets/images/portfolio/item-3.png"
     url: "/about"
+    project-description: "This is a description of my third project."
 
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
+    project-description: "This is a description of my fourth project."
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
+    project-description: "This is a description of my fifth project."
 
 # Portfolio Page
 portfolio-label:
@@ -214,27 +219,32 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
+    project-description: "This is a description of my sixth project."
 
   - image: "assets/images/portfolio/item-2.png"
     url: "/about"
     portfolio-type:
       - type: "branding"
+    project-description: "This is a description of my seventh project."
 
   - image: "assets/images/portfolio/item-3.png"
     url: "/about"
     portfolio-type:
       - type: "illustration"
+    project-description: "This is a description of my eith project."
 
   - image: "assets/images/portfolio/item-6.png"
     url: "/about"
     portfolio-type:
       - type: "design"
       - type: "branding"
+    project-description: "This is a description of my first project."
 
   - image: "assets/images/portfolio/item-8.png"
     url: "/about"
     portfolio-type:
       - type: "illustration"
+    project-description: "This is a description of my nineth project."
 
   - image: "assets/images/portfolio/item-5.png"
     url: "/about"
@@ -245,6 +255,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "branding"
+    project-description: "This is a description of my tenth project."
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
@@ -252,11 +263,13 @@ portfolio-items:
       - type: "design"
       - type: "illustration"
       - type: "branding"
+    project-description: "This is a description of my 11th project."
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
       - type: "illustration"
+    project-description: "This is a description of my 12th project."
 
 #-------------------------------
 # Testimonials Section
