@@ -188,7 +188,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "/about"
+    url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "/about"
