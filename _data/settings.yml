@@ -188,7 +188,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#blog"
+    url: "blog"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
