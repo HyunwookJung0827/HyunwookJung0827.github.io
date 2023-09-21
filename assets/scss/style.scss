@@ -33,3 +33,25 @@ VERSION:	Versoin Number
 @import 'templates/about';
 
 @import 'templates/portfolio';
+
+.project-description {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+}
+
+.portfolio-button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #000000;
+  color: #ffffff;
+
+  /* Position the button in the center of the screen */
+  margin: 0 auto;
+  /* Display the button as a block element */
+  display: block;
+  /* Add some space around the button */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
