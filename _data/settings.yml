@@ -186,26 +186,30 @@ education:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
-  - image: "assets/images/portfolio/go-cloud-storage-1.png"
-    url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
-    project-description: "This is a description of my first project."
+portfolio-button:
+  label: Portfolio
+  url: /portfolio
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "/about"
-    project-description: "This is a description of my second project."
+#portfolio-home-items:
+#  - image: "assets/images/portfolio/go-cloud-storage-1.png"
+#    url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
+#    project-description: "This is a description of my first project."
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "/about"
-    project-description: "This is a description of my third project."
+#  - image: "assets/images/portfolio/item-2.png"
+#    url: "/about"
+#    project-description: "This is a description of my second project."
 
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-    project-description: "This is a description of my fourth project."
+#  - image: "assets/images/portfolio/item-3.png"
+#    url: "/about"
+#    project-description: "This is a description of my third project."
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    project-description: "This is a description of my fifth project."
+#  - image: "assets/images/portfolio/item-4.png"
+#    url: "#"
+#    project-description: "This is a description of my fourth project."
+
+#  - image: "assets/images/portfolio/item-5.png"
+#    url: "#"
+#    project-description: "This is a description of my fifth project."
 
 # Portfolio Page
 portfolio-label:
