@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-12 text-center">
         <a href="/portfolio" class="portfolio-button">
-          <h2 class="section-title">To Portfolio</h2>
+          <h2 class="section-title">Click To See Portfolio</h2>
         </a>
       </div>
     </div>
@@ -27,18 +27,3 @@
 </section>
 <!-- /portfolio -->
 {% endif %}
-
-{% for item in site.data.settings.portfolio-items %}
-  <div class="col-lg-4 col-6 mb-4 shuffle-item">
-    <div class="position-relative rounded hover-wrapper">
-      <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-      <div class="hover-overlay">
-        <div class="hover-content">
-          <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
-
-          <p class="project-description">{{ item.project-description }}</p>
-        </div>
-      </div>
-    </div>
-  </div>
-{% endfor %}
