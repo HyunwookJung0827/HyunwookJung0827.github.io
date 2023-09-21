@@ -89,10 +89,10 @@ blurb-btn-name: know more
 
 skills-title: Skills
 skills:
+  - { name: CS Theory, color: "#ffbcaa", value: "70%" }
   - { name: Problem Solving, color: "#fdb157", value: "90%" }
   - { name: Cloud Engineering, color: "#9473e6", value: "50%" }
   - { name: Machine Learning, color: "#bdecf6", value: "30%" }
-  - { name: CS Theory, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
