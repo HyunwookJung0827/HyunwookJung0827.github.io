@@ -223,7 +223,7 @@ portfolio-items:
     portfolio-type:
       - type: "Go"
       - type: "Cloud Engineering"
-    project-description: "This is a description of my sixth project."
+    project-description: "Built a secure online file sharing system that uses end-to-end encryption to protect user data. The system allows users to store, add, and load data in linear time, and uses linked lists to represent the original data with multiple updates. To prevent unauthorized access, the system uses public/private user keys for asymmetric/symmetric hashing of credential data, and generates different keys for different purposes by multiple hashing."
 
   - image: "assets/images/portfolio/item-2.png"
     url: "/about"
