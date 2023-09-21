@@ -218,7 +218,7 @@ portfolio-label:
   - { title: "AWS", type: "illustration" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/go-cloud-storage-1.png"
+  - image: "assets/images/portfolio/Go-Storage.png"
     url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
     portfolio-type:
       - type: "Go"
