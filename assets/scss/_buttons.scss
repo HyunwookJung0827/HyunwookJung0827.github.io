@@ -61,3 +61,18 @@
     color: $primary-color;
   }
 }
+.portfolio-button {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+
+  /* Position the button in the center of the screen */
+  margin: 0 auto;
+  /* Display the button as a block element */
+  display: block;
+  /* Add some space around the button */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
