@@ -8,7 +8,7 @@ author: themefisher
 description: this is meta description
 email: as9804@berkeley.edu
 phone: +1 510 277 7727
-address: 2805 Ellsworth St, CA 94705, USA
+address: Berkeley, CA 94705, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -97,42 +97,42 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Language
 experience:
   - {
       name: PYTHON,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
+      date: "2020 - 2023",
       #organization: "WEBEX",
     }
   - {
       name: C++,
-      icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
+      icon: "icon-3.png",
+      date: "2018 - 2020",
       #organization: "AUGMEDIX",
     }
   - {
-      name: Go,
+      name: GoLang,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
+      date: "2023 - 2023",
       #organization: "THEMEFISHER",
     }
   - {
       name: Java,
       icon: "icon-1.png",
-      date: "Sep 2014 - Present",
+      date: "2023 - 2023",
       #organization: "THEMEFISHER",
     }
   - {
-      name: Senior UI Designer,
+      name: SQL,
       icon: "icon-2.png",
-      date: "Sep 2014 - Present",
+      date: "2020 - 2023",
       #organization: "THEMEFISHER",
     }
   - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
+      name: Javascript,
+      icon: "icon-2.png",
+      date: "2020 - 2020",
       #organization: "THEMEFISHER",
     }
 
@@ -187,7 +187,7 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/go-cloud-storage-1.png"
     url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
     project-description: "This is a description of my first project."
 
@@ -215,10 +215,10 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/go-cloud-storage-1.png"
-    url: "/about"
+    url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "Go"
+      - type: "Cloud Engineering"
     project-description: "This is a description of my sixth project."
 
   - image: "assets/images/portfolio/item-2.png"
