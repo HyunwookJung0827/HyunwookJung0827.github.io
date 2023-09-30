@@ -2,7 +2,7 @@
 layout: post
 title:  GodFather(1972)
 date:   2023-09-01 20:15:55 +0700
-image:  /assets/images/blog/daily/movies/movies-2-GodFather.png
+image:  /assets/images/blog/daily/movies/movies-2-GodFather.jpg
 author: hyunwookjung
 tags:   Movies
 ---
