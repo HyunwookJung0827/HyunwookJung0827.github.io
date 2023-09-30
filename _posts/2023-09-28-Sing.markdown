@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sing
+title:  Sing(2016)
 date:   2023-09-28 20:15:55 +0700
 image:  /assets/images/blog/daily/movies/movies-1-Sing.png
 author: hyunwookjung
