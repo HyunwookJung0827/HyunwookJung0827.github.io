@@ -192,7 +192,7 @@ portfolio-button:
 
 portfolio-home-items:
   - image: "assets/images/portfolio/go-cloud-storage-1.png"
-    url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
+    url: "https://github.com/HyunwookJung0827/Encrypted-File-Sharing-System"
     project-description: "This is a description of my first project."
 
 #  - image: "assets/images/portfolio/item-2.png"
@@ -219,61 +219,61 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/Go-Storage.png"
-    url: "https://github.com/cs161-students/fa22-project2-cs161-teamclobber"
+    url: "https://github.com/HyunwookJung0827/Encrypted-File-Sharing-System"
     portfolio-type:
       - type: "Go"
       - type: "Cloud Engineering"
     project-description: "Built a secure online file sharing system that uses end-to-end encryption to protect user data. The system allows users to store, add, and load data in linear time, and uses linked lists to represent the original data with multiple updates. To prevent unauthorized access, the system uses public/private user keys for asymmetric/symmetric hashing of credential data, and generates different keys for different purposes by multiple hashing."
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "/about"
-    portfolio-type:
-      - type: "branding"
-    project-description: "This is a description of my seventh project."
+#  - image: "assets/images/portfolio/item-2.png"
+#    url: "/about"
+#    portfolio-type:
+#      - type: "branding"
+#    project-description: "This is a description of my seventh project."
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "/about"
-    portfolio-type:
-      - type: "illustration"
-    project-description: "This is a description of my eith project."
+#  - image: "assets/images/portfolio/item-3.png"
+#    url: "/about"
+#    portfolio-type:
+#      - type: "illustration"
+#    project-description: "This is a description of my eith project."
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "/about"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-    project-description: "This is a description of my first project."
+#  - image: "assets/images/portfolio/item-6.png"
+#    url: "/about"
+#    portfolio-type:
+#      - type: "design"
+#      - type: "branding"
+#    project-description: "This is a description of my first project."
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "/about"
-    portfolio-type:
-      - type: "illustration"
-    project-description: "This is a description of my nineth project."
+#  - image: "assets/images/portfolio/item-8.png"
+#    url: "/about"
+#    portfolio-type:
+#      - type: "illustration"
+#    project-description: "This is a description of my nineth project."
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "/about"
-    portfolio-type:
-      - type: "design"
+#  - image: "assets/images/portfolio/item-5.png"
+#    url: "/about"
+#    portfolio-type:
+#      - type: "design"
 
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-    project-description: "This is a description of my tenth project."
+#  - image: "assets/images/portfolio/item-1.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "branding"
+#    project-description: "This is a description of my tenth project."
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-    project-description: "This is a description of my 11th project."
+#  - image: "assets/images/portfolio/item-3.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#      - type: "illustration"
+#      - type: "branding"
+#    project-description: "This is a description of my 11th project."
 
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-    project-description: "This is a description of my 12th project."
+#  - image: "assets/images/portfolio/item-7.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
+#    project-description: "This is a description of my 12th project."
 
 
 #-------------------------------
