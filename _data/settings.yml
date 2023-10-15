@@ -193,7 +193,7 @@ portfolio-button:
 portfolio-home-items:
   - image: "assets/images/portfolio/go-cloud-storage-1.png"
     url: "https://github.com/HyunwookJung0827/Encrypted-File-Sharing-System"
-    project-description: "This is a description of my first project."
+    project-description: "This is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 
 #  - image: "assets/images/portfolio/item-2.png"
 #    url: "/about"
@@ -213,15 +213,16 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "CS Theory", type: "design" }
-  - { title: "Machine Learning", type: "branding" }
-  - { title: "AWS", type: "illustration" }
+  - { title: "Python", type: "Python" }
+  - { title: "GoLang", type: "GoLang" }
+  - { title: "Machine Learning", type: "Machine Learning" }
+  - { title: "Cloud Engineering", type: "Cloud Engineering" }
 
 portfolio-items:
   - image: "assets/images/portfolio/Go-Storage.png"
     url: "https://github.com/HyunwookJung0827/Encrypted-File-Sharing-System"
     portfolio-type:
-      - type: "Go"
+      - type: "GoLang"
       - type: "Cloud Engineering"
     project-description: "Built a secure online file sharing system that uses end-to-end encryption to protect user data. The system allows users to store, add, and load data in linear time, and uses linked lists to represent the original data with multiple updates. To prevent unauthorized access, the system uses public/private user keys for asymmetric/symmetric hashing of credential data, and generates different keys for different purposes by multiple hashing."
 
