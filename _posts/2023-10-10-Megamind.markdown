@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Sing(2016)
-date:   2023-10-10 20:15:55 +0700
+title:  Megamind(2010)
+date:   2023-10-12 20:15:55 +0700
 image:  assets/images/blog/movies/movies-3-Megamind.jpg
 author: hyunwookjung
 tags:   Movies
